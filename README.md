@@ -45,7 +45,7 @@
 <br><br>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrwodsbfjq&show_icons=true&theme=ayu-mirage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=separk-1&show_icons=true&theme=ayu-mirage)
 
 <br><br>
 <!-- <a href="https://laced-soda-e8a.notion.site/Portfolio-27873d5bf1d44440bf0800527e9ce1ec" target="_blank">
