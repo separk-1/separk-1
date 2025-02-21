@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there!+I'm+Seongeun+Park👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Seongeun+Park👋)](https://git.io/typing-svg)
 
 <br>
 
@@ -45,7 +45,8 @@
 <br><br>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=separk-1&show_icons=true&theme=ayu-mirage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=separk-1&layout=compact&theme=ayu-mirage&hide_progress=true)
+
 
 <br><br>
 <!-- <a href="https://laced-soda-e8a.notion.site/Portfolio-27873d5bf1d44440bf0800527e9ce1ec" target="_blank">
