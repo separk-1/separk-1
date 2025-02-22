@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=header&text=Seongeun%20Park&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0,C41230&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=AI%20for%20Human-System%20Interaction%20|%20Decision%20Support&descAlign=50&descAlignY=70" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=374151&center=true&vCenter=true&random=true&width=600&height=70&lines=Hi+there!+I'm+Seongeun+Park👋;Decision+Failures+%7C+Toxic+Knowledge;Human-Computer+Interaction+%7C+AI+for+Safety;Knowledge+Graph+%7C+RAG+%7C+Automation)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&pause=1000&color=374151&center=true&vCenter=true&random=true&width=800&height=70&lines=AI+for+Human-System+Interaction+%7C+Decision+Support;Risk+Analysis+%7C+Safety-Critical+Engineering;Knowledge+Graph+%7C+RAG+%7C+Automation)](https://git.io/typing-svg)
 </div>
+
 
 ---
 
 ## 👨‍💻 About Me  
 <div align="left">
-  <h4> 🏗️ Ph.D. Student in Civil Engineering at Carnegie Mellon University </h4>
-  <h4> 🔬 Researching Decision Failures & AI-Driven Safety Management </h4>
+  <h4> 🏗️ Ph.D. Candidate in Civil & Environmental Engineering at CMU </h4>
+  <h4> 🔬 Researching Human-System Interaction and Decision-Making, AI-Driven Safety Management</h4>
 </div>
 
-I investigate **why abnormal situations are mishandled** and how **toxic knowledge exacerbates decision failures**, focusing on:  
+I investigate **how human-system interaction influences decision-making** and how **AI can enhance safety management** in high-risk environments. My research focuses on:  
 - **Decision-Making in Engineering Systems & Safety-Critical Environments**  
 - **Human-Computer Interaction (HCI) & Cognitive Systems Engineering**  
 - **Knowledge Graphs & Retrieval-Augmented Generation (RAG)**  
@@ -72,7 +73,7 @@ I investigate **why abnormal situations are mishandled** and how **toxic knowled
 ## 📬 Contact Me  
 <div align="center">
   <a href="mailto:seongeup@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/separk-1">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -80,7 +81,7 @@ I investigate **why abnormal situations are mishandled** and how **toxic knowled
   <a href="https://www.linkedin.com/in/separk111/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://separk-1.github.io">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </div>
-
-📧 Email: [Click here](mailto:seongeup@andrew.cmu.edu)  
-🌐 Website: [Personal Website](https://separk-1.github.io)
