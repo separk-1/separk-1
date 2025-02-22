@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=E0E0E0,C41230&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=AI%20for%20Human-System%20Interaction%20|%20Decision%20Support&descAlign=50&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=C41230&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&font=Montserrat&desc=AI%20for%20Human-System%20Interaction%20|%20Decision%20Support&descAlign=50&descAlignY=70" />
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&pause=1000&color=374151&center=true&vCenter=true&random=true&width=800&height=70&lines=AI+for+Human-System+Interaction+%7C+Decision+Support;Risk+Analysis+%7C+Safety-Critical+Engineering;Knowledge+Graph+%7C+RAG+%7C+Automation)](https://git.io/typing-svg)
 </div>
