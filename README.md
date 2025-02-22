@@ -19,14 +19,16 @@
 ### 💻 Languages  
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2b&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
 </div>
 
 ### ⚙️ Frameworks  
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
 </div>
 
 ### ☁️ Cloud  
@@ -46,6 +48,7 @@
 ## 📊 GitHub Stats  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=separk-1&show_icons=true&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=separk-1&layout=compact&theme=ayu-mirage"/>
 </div>
 
@@ -63,3 +66,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+📧 Email: [Click here](mailto:seongeup@andrew.cmu.edu)
