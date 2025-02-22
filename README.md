@@ -1,23 +1,28 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=header&text=Seongeun%20Park&fontSize=40&fontColor=ffffff" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=374151&center=true&vCenter=true&random=true&width=600&height=70&lines=Hi+there!+I'm+Seongeun+Park👋;AI+for+Infrastructure+Operations;Knowledge+Graph+%7C+LLM+%7C+RAG;Decision+Failures+%7C+Toxic+Knowledge)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=374151&center=true&vCenter=true&random=true&width=600&height=70&lines=Hi+there!+I'm+Seongeun+Park👋;Decision+Failures+%7C+Toxic+Knowledge;Human-Computer+Interaction+%7C+AI+for+Safety;Knowledge+Graph+%7C+RAG+%7C+Automation)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ## 👨‍💻 About Me  
 <div align="left">
-  <h4> 🏗️ Civil Engineer & AI Researcher </h4>
-  <h4> 🎓 Ph.D. Student at Carnegie Mellon University </h4>
-  <h4> 🔬 Investigating Decision Failures in Infrastructure Operations </h4>
+  <h4> 🏗️ Ph.D. Student in Civil Engineering at Carnegie Mellon University </h4>
+  <h4> 🔬 Researching Decision Failures & AI-Driven Safety Management </h4>
 </div>
 
-I research **why abnormal situations are mishandled** and how **toxic knowledge exacerbates decision failures**, focusing on:  
-- **Data Inconsistencies & Human Beliefs in Decision-Making**  
+I investigate **why abnormal situations are mishandled** and how **toxic knowledge exacerbates decision failures**, focusing on:  
+- **Decision-Making in Engineering Systems & Safety-Critical Environments**  
+- **Human-Computer Interaction (HCI) & Cognitive Systems Engineering**  
 - **Knowledge Graphs & Retrieval-Augmented Generation (RAG)**  
-- **Automation & Safety in Nuclear Microreactors**  
-- **Human-Computer Interaction in High-Risk Environments**  
+- **Automation & Risk Management in Infrastructure Operations**  
+
+---
+
+## 🔑 Key Research  
+- **Human-Independent Activity Recognition of Construction Workers** 🏗️ *(European Conference on Computing in Construction, 2023)*  
+- **HangCon: A Benchmark Dataset for Hanging Object Detection in Construction Sites** 📸 *(Journal of Computing in Civil Engineering, 2024)*  
 
 ---
 
@@ -36,8 +41,8 @@ I research **why abnormal situations are mishandled** and how **toxic knowledge 
 <div align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
 </div>
 
 ### ☁️ Cloud & Tools  
@@ -52,24 +57,7 @@ I research **why abnormal situations are mishandled** and how **toxic knowledge 
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </div>
-
----
-
-## 🚀 Research & Projects  
-### 🏛️ AI for Decision-Making & Infrastructure Safety  
-- **Failure Mechanisms in Decision-Making** 🔹 [CMU]  
-  - Analyzed how **data inconsistencies, human biases, and toxic knowledge** cause decision failures in safety-critical systems.  
-
-- **Human Systems Engineering for Remote Nuclear Microreactors** 🔹 [CMU]  
-  - Built **RAG & Knowledge Graph models** to enhance operator decision-making in decentralized nuclear operations.  
-
-- **AI-Based Construction Safety Platform** 🔹 [NRF Korea]  
-  - Developed **LLM-powered accident prediction & worker behavior analysis models**.  
-
-- **Monocular Camera-Based Detection of Suspended Objects** 🔹 [SNU]  
-  - Applied **computer vision & web scraping** to detect hazards in construction sites.  
 
 ---
 
