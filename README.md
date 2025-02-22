@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=header&text=Seongeun%20Park&fontSize=40&fontColor=ffffff" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=374151&center=true&vCenter=true&random=true&width=600&height=70&lines=Hi+there!+I'm+Seongeun+Park👋;AI+for+Infrastructure+Operations;Knowledge+Graph+%7C+LLM+%7C+RAG;Let's+Build+Something+Great!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&color=374151&center=true&vCenter=true&random=true&width=600&height=70&lines=Hi+there!+I'm+Seongeun+Park👋;AI+for+Infrastructure+Operations;Knowledge+Graph+%7C+LLM+%7C+RAG;Decision+Failures+%7C+Toxic+Knowledge)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -10,14 +10,14 @@
 <div align="left">
   <h4> 🏗️ Civil Engineer & AI Researcher </h4>
   <h4> 🎓 Ph.D. Student at Carnegie Mellon University </h4>
-  <h4> 🔬 Researching AI-Driven Infrastructure Operations </h4>
+  <h4> 🔬 Investigating Decision Failures in Infrastructure Operations </h4>
 </div>
 
-I develop **AI-powered decision support systems** for **infrastructure operations**, focusing on:
-- **Knowledge Graphs & Retrieval-Augmented Generation (RAG)**
-- **Human-Computer Interaction in Engineering Systems**
-- **Automation & Safety in Nuclear Microreactors**
-- **Computer Vision & Sensor-Based Activity Recognition**
+I research **why abnormal situations are mishandled** and how **toxic knowledge exacerbates decision failures**, focusing on:  
+- **Data Inconsistencies & Human Beliefs in Decision-Making**  
+- **Knowledge Graphs & Retrieval-Augmented Generation (RAG)**  
+- **Automation & Safety in Nuclear Microreactors**  
+- **Human-Computer Interaction in High-Risk Environments**  
 
 ---
 
@@ -58,9 +58,12 @@ I develop **AI-powered decision support systems** for **infrastructure operation
 ---
 
 ## 🚀 Research & Projects  
-### 🏛️ AI for Infrastructure & Engineering  
+### 🏛️ AI for Decision-Making & Infrastructure Safety  
+- **Failure Mechanisms in Decision-Making** 🔹 [CMU]  
+  - Analyzed how **data inconsistencies, human biases, and toxic knowledge** cause decision failures in safety-critical systems.  
+
 - **Human Systems Engineering for Remote Nuclear Microreactors** 🔹 [CMU]  
-  - Built **RAG & Knowledge Graph models** for enhanced decision-making in decentralized nuclear operations.  
+  - Built **RAG & Knowledge Graph models** to enhance operator decision-making in decentralized nuclear operations.  
 
 - **AI-Based Construction Safety Platform** 🔹 [NRF Korea]  
   - Developed **LLM-powered accident prediction & worker behavior analysis models**.  
@@ -75,12 +78,6 @@ I develop **AI-powered decision support systems** for **infrastructure operation
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=separk-1&layout=compact&theme=ayu-mirage"/>
 </div>
-
----
-
-## 🎓 Teaching Experience  
-- **TA for "BIM for Engineering & Facility Management"** @CMU (2025)  
-- **TA for "Architecture & AI"** @SNU (2023-2024)  
 
 ---
 
