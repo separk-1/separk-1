@@ -1,14 +1,8 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Senongeun Park&fontSize=45&fontColor=FDB515&fontAlign=50&fontAlignY=30&font=Roboto&desc=Sen&descAlign=50&descAlignY=50" />
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&pause=1000&color=008F91&center=true&vCenter=true&random=true&width=800&height=70&lines=Hi+there!+👋+I'm+Seongeun+Park;Human-AI+Collaboration+for+Safety+🤝;Smart+Systems+for+Better+Decisions+⚡;Knowledge+Graphs+%2B+LLMs+for+Safety+🛡️;Making+High-Risk+Systems+Safer+🚀)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&font=Roboto&desc=Human-System%20Interaction%20and%20Decision%20Making%20|%20Safety%20Management&descAlign=50&descAlignY=70" />
 
 
----
-## Interested In
-🚀 Human-System Interaction & Decision Making
-🛡️ AI-Driven Safety Management
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&pause=1000&color=C41230&center=true&vCenter=true&random=true&width=800&height=70&lines=Hi+there!+👋+I'm+Seongeun+Park;Human-AI+Collaboration+for+Safety+🤝;Smart+Systems+for+Better+Decisions+⚡;Knowledge+Graphs+%2B+LLMs+for+Safety+🛡️;Making+High-Risk+Systems+Safer+🚀)](https://git.io/typing-svg)
+
 
 ---
 
