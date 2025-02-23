@@ -99,5 +99,6 @@ Always excited to chat about AI, safety, or anything tech! Find me on:
   </a>
 </div>
 
-</div>
+<br>
+
 *🚧 Currently building the future of system safety, one line of code at a time! 🌟*
