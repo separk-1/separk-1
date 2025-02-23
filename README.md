@@ -1,28 +1,37 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=043673&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&font=Helvetica&desc=AI%20for%20Human-System%20Interaction%20|%20Decision%20Support&descAlign=50&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=043673&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&font=Helvetica&desc=Human-System%20Interaction%20and%20Decision%20Making%20|%20Safety%Management&descAlign=50&descAlignY=70" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=30&pause=1000&color=007BC0&center=true&vCenter=true&random=true&width=800&height=70&lines=AI+%26+Human-System+Interaction+Research;Safety+Analytics+%26+Decision+Support+Systems;Knowledge+Engineering+%26+Cognitive+Systems;AI-Driven+Safety+Management+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=007BC0&center=true&vCenter=true&random=true&width=800&height=70&lines=Hi+there!+👋+I'm+Seongeun+Park;Human-AI+Collaboration+for+Safety+🤝;Smart+Systems+for+Better+Decisions+⚡;Knowledge+Graphs+%2B+LLMs+for+Safety+🛡️;Making+High-Risk+Systems+Safer+🚀)](https://git.io/typing-svg)
+
+
 
 </div>
 
 
 ---
 
-## 👨‍💻 About Me  
-<div align="left">
-  <h4> 🏗️ Ph.D. Candidate in Civil Engineering at CMU </h4>
-  <h4> 🔬 Researching Human-System Interaction and Decision-Making, AI-Driven Safety Management</h4>
-</div>
+## 👋 Hello World!
 
-I investigate **how human-system interaction influences decision-making** and how **AI can enhance safety management** in high-risk environments. My research focuses on:  
-- **Decision-Making in Engineering Systems & Safety-Critical Environments**  
-- **Human-Computer Interaction (HCI) & Cognitive Systems Engineering**  
-- **Knowledge Graphs, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs)**  
-- **AI-Driven Automation & Risk Management in Infrastructure Operations**  
+I'm a Ph.D. Student at CMU, passionate about making system safer through human-AI collaboration! 
+
+🎯 What drives my research:
+- Understanding how humans and AI make decisions together in high-risk environments 🤝
+- Building intelligent systems that enhance workplace safety through HCI & cognitive engineering 🛡️
+- Developing Knowledge Graphs & LLMs that support critical decision-making 🧩
+- Creating AI solutions that transform safety management in infrastructure operations ⚡
+
+My research explores how human-system interaction shapes decision-making and leverages AI to enhance safety in high-risk environments 🚀
 
 ---
 
-## 📚 Publications  
+## 🚀 My Latest Adventures
+- Created HangCon: Teaching AI to spot dangerous hanging objects 🏗️
+- Trained GPT models to predict and prevent accidents (they're getting pretty good at it!) 🔮
+- Built a smart system to keep track of vehicles in tunnels 🚛
+- Developed cool wearable tech to prevent workers from falling 🦺
+
+## 📚 Cool Stuff I've Written  
+*Here are some of my research adventures in making construction safer!*
 
 ### **📖 Journal Articles**  
 - Jeong, G., **Park, S.**, Lee, J., Park, M., & Ahn, C. R. (2024). *HangCon: A New Benchmark Dataset for Hanging Object Detection in Construction Sites.* Journal of Computing in Civil Engineering.  
@@ -36,6 +45,7 @@ I investigate **how human-system interaction influences decision-making** and ho
 - **Park, S.**, An, M., Xu, H., Ahn, C. R., & Park, M. (2022). *Construction worker’s awkward posture recognition using wearable sensors.* International Symposium on Architectural Interchanges in Asia.  
 
 ---
+## 🛠️ My Tech Playground
 
 ### 🤖 AI & Machine Learning  
 <div align="left">
@@ -72,7 +82,8 @@ I investigate **how human-system interaction influences decision-making** and ho
 
 ---
 
-## 📬 Contact Me  
+## 📫 Let's Connect! 
+Always excited to chat about AI, safety, or anything tech! Find me on:
 <div align="center">
   <a href="mailto:seongeup@andrew.cmu.edu">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -90,3 +101,5 @@ I investigate **how human-system interaction influences decision-making** and ho
     <img src="https://img.shields.io/badge/Website-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </div>
+
+*🚧 Currently building the future of construction safety, one line of code at a time! 🌟*
