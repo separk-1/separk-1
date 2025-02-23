@@ -45,27 +45,27 @@ My research explores how human-system interaction shapes decision-making and lev
 
 ### 🤖 AI & Machine Learning  
 <div align="left">
-  <img src="https://img.shields.io/badge/Activity%20Recognition-00599C?style=for-the-badge&logo=sensory&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pose%20Estimation-8A2BE2?style=for-the-badge&logo=computer-vision&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-008CC1?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Knowledge%20Graph-FFD700?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistical%20%26%20Causal%20Analysis-DAA520?style=for-the-badge&logo=analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Activity%20Recognition-00599C?style=flat&logo=sensory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pose%20Estimation-8A2BE2?style=flat&logo=computer-vision&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-008CC1?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-FFD700?style=flat&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistical%20%26%20Causal%20Analysis-DAA520?style=flat&logo=analytics&logoColor=white"/>
 </div>
 
 ### ⚙️ Tools  
 <div align="left">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=Neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </div>
 
 ### 💻 Languages  
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white"/>
 </div>
 
 ---
@@ -83,19 +83,19 @@ Always excited to chat about AI, safety, or anything tech! Find me on:
 
 <div align="center">
   <a href="mailto:seongeup@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/separk-1">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/separk111/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://scholar.google.com/citations?user=G1eiHDcAAAAJ&hl=ko">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"/>
   </a>
   <a href="https://separk-1.github.io">
-    <img src="https://img.shields.io/badge/Website-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-FF9800?style=flat&logo=googlechrome&logoColor=white"/>
   </a>
 </div>
 
