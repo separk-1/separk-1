@@ -47,16 +47,16 @@ My research explores how human-system interaction shapes decision-making and lev
 
 #### 🔹 Perception & Understanding  
 <div align="left">
-  <img src="https://img.shields.io/badge/Activity%20Recognition-00599C?style=flat&logo=sensory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Activity%20Recognition-00599C?style=flat&logo=ai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pose%20Estimation-8A2BE2?style=flat&logo=computer-vision&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pose%20Estimation-8A2BE2?style=flat&logo=body-movement&logoColor=white"/>
 </div>
 
 #### 🔹 Knowledge & Reasoning  
 <div align="left">
-  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-008CC1?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-008CC1?style=flat&logo=ai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Knowledge%20Graph-FFD700?style=flat&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistical%20%26%20Causal%20Analysis-DAA520?style=flat&logo=analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistical%20%26%20Causal%20Analysis-DAA520?style=flat&logo=chart-bar&logoColor=white"/>
 </div>
 
 ### 💻 Languages  
@@ -67,6 +67,7 @@ My research explores how human-system interaction shapes decision-making and lev
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white"/>
 </div>
+
 
 ---
 
