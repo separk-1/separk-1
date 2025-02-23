@@ -86,7 +86,7 @@ Always excited to chat about AI, safety, or anything tech! Find me on:
 
 <div align="center">
   <a href="mailto:seongeup@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/separk-1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
