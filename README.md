@@ -74,24 +74,9 @@ My research explores how human-system interaction shapes decision-making and lev
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=separk-1&layout=compact&theme=ayu-mirage"/>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=separk-1&theme=tokyo-night" width="790"/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=separk-1&show_icons=true&theme=ayu-mirage"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=separk-1&theme=ayu-mirage"/>
-</div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=separk-1&show_icons=true&theme=ayu-mirage"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=separk-1&theme=ayu-mirage"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=separk-1&show_icons=true&theme=ayu-mirage"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=separk-1&theme=ayu-mirage"/>
 </div>
 
 ---
