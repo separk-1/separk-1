@@ -47,27 +47,37 @@ My research explores how human-system interaction shapes decision-making and lev
 
 #### 🔹 Perception & Understanding  
 <div align="left">
-  <img src="https://img.shields.io/badge/Activity%20Recognition-00599C?style=flat&logo=ActiGraph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=flat&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pose%20Estimation-8A2BE2?style=flat&logo=body-movement&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Activity%20Recognition-00599C?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C"/>
+  <img src="https://img.shields.io/badge/Object%20Detection-FF6F00?style=flat&logo=opencv&logoColor=white&color=5C3EE8"/>
+  <img src="https://img.shields.io/badge/Pose%20Estimation-8A2BE2?style=flat&logo=tensorflow&logoColor=white&color=FF6F00"/>
 </div>
 
 #### 🔹 Knowledge & Reasoning  
 <div align="left">
-  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-008CC1?style=flat&logo=ai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Knowledge%20Graph-FFD700?style=flat&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistical%20%26%20Causal%20Analysis-DAA520?style=flat&logo=chart-bar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-008CC1?style=flat&logo=OpenAI&logoColor=white&color=412991"/>
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-FFD700?style=flat&logo=neo4j&logoColor=white&color=4581C3"/>
+  <img src="https://img.shields.io/badge/Statistical%20%26%20Causal%20Analysis-DAA520?style=flat&logo=googleanalytics&logoColor=white&color=E37400"/>
 </div>
 
-### 💻 Languages  
+</div>
+
+### 💻 Languages & Frameworks  
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=F7DF1E"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=00599C"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&color=276DC3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&color=336791"/>
 </div>
 
+### 📚 Libraries & Tools  
+<div align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&color=EE4C2C"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FFCC00?style=flat&logo=tensorflow&logoColor=white&color=FF6F00"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&color=5C3EE8"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white&color=F7931E"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white&color=4581C3"/>
+</div>
 
 ---
 
