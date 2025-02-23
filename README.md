@@ -53,12 +53,6 @@ My research explores how human-system interaction shapes decision-making and lev
   <img src="https://img.shields.io/badge/Statistical%20%26%20Causal%20Analysis-DAA520?style=flat&logo=analytics&logoColor=white"/>
 </div>
 
-### ⚙️ Tools  
-<div align="left">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</div>
-
 ### 💻 Languages  
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
