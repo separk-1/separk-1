@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=043673&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&font=Helvetica&desc=Human-System%20Interaction%20and%20Decision%20Making%20|%20Safety%Management&descAlign=50&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Seongeun%20Park&fontSize=45&fontColor=FDB515&fontAlign=50&fontAlignY=50&font=Roboto&desc=Human-System%20Interaction%20and%20Decision%20Making%20|%20AI-Driven%20Safety%20Management&descAlign=50&descAlignY=70" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=007BC0&center=true&vCenter=true&random=true&width=800&height=70&lines=Hi+there!+👋+I'm+Seongeun+Park;Human-AI+Collaboration+for+Safety+🤝;Smart+Systems+for+Better+Decisions+⚡;Knowledge+Graphs+%2B+LLMs+for+Safety+🛡️;Making+High-Risk+Systems+Safer+🚀)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=008F91&center=true&vCenter=true&random=true&width=800&height=70&lines=Hi+there!+👋+I'm+Seongeun+Park;Human-AI+Collaboration+for+Safety+🤝;Smart+Systems+for+Better+Decisions+⚡;Knowledge+Graphs+%2B+LLMs+for+Safety+🛡️;Making+High-Risk+Systems+Safer+🚀)](https://git.io/typing-svg)
 
 
 
@@ -84,15 +85,16 @@ My research explores how human-system interaction shapes decision-making and lev
 
 ## 📫 Let's Connect! 
 Always excited to chat about AI, safety, or anything tech! Find me on:
+
 <div align="center">
   <a href="mailto:seongeup@andrew.cmu.edu">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/separk-1">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/separk111/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   </a>
   <a href="https://scholar.google.com/citations?user=G1eiHDcAAAAJ&hl=ko">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
@@ -102,4 +104,5 @@ Always excited to chat about AI, safety, or anything tech! Find me on:
   </a>
 </div>
 
-*🚧 Currently building the future of construction safety, one line of code at a time! 🌟*
+</div>
+*🚧 Currently building the future of system safety, one line of code at a time! 🌟*
