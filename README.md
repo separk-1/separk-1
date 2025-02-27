@@ -66,8 +66,8 @@ My research explores how human-system interaction shapes decision-making and lev
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&color=3776AB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=F7DF1E"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=00599C"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&color=276DC3"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&color=336791"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white&color=276DC3"/>
 </div>
 
 ### 📚 Libraries & Tools  
