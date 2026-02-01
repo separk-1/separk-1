@@ -21,24 +21,29 @@ My research explores how human-system interaction shapes decision-making and lev
 ---
 
 ## 🚀 My Latest Adventures
-- Created HangCon: Teaching AI to spot dangerous hanging objects 🏗️
-- Trained GPT models to predict and prevent accidents (they're getting pretty good at it!) 🔮
-- Built a smart system to keep track of vehicles in tunnels 🚛
-- Developed cool wearable tech to prevent workers from falling 🦺
+- Built AI-driven systems for engineering design automation from conceptual to detailed design  
+- Developed AI decision-support tools for operators in nuclear power plants  
+- Created **HangCon**, an AI system for detecting hazardous hanging objects in construction sites  
+- Trained GPT-based models to predict and help prevent industrial accidents  
+- Built intelligent systems for vehicle activity tracking in tunnel environments  
+- Developed wearable sensing technologies to prevent worker falls  
 
 ## 📚 Cool Stuff I've Written  
 *Here are some of my research adventures in making construction safer!*
 
 ### **📖 Journal Articles**  
-- Jeong, G., **Park, S.**, Lee, J., Park, M., & Ahn, C. R. (2024). *HangCon: A New Benchmark Dataset for Hanging Object Detection in Construction Sites.* Journal of Computing in Civil Engineering.  
-- Yoo, B., Kim, J., **Park, S.**, Oh, T., & Ahn, C. R. (2023). *Harnessing Generative Pre-trained Transformers for Construction Accident Prediction with Saliency Visualization.* Applied Sciences.  
-- Jung, G., Jung, M., **Park, S.**, Park, M., & Ahn, C. R. (2023). *Contextual Multimodal Approach for Recognizing the Concurrent Activities of Equipment Vehicles in Tunnel Construction Projects.* Automation in Construction.  
-- Lee, H., Lee, G., **Park, S.**, Lee, S., Jacobs, J. V., & Ahn, C. R. (2023). *Collective Sensing of Workers’ Loss of Body Balance for Slip, Trip, and Fall Hazard Identification: Field Validation Study.* Journal of Computing in Civil Engineering.  
+1. Jeong, G., **Park, S.**, Lee, J., Park, M., & Ahn, C. R. (2024). *HangCon: A New Benchmark Dataset for Hanging Object Detection in Construction Sites.* Journal of Computing in Civil Engineering.
+2. Yoo, B., Kim, J., **Park, S.**, Oh, T., & Ahn, C. R. (2023). *Harnessing Generative Pre-trained Transformers for Construction Accident Prediction with Saliency Visualization.* Applied Sciences.
+3. Jung, G., Jung, M., **Park, S.**, Park, M., & Ahn, C. R. (2023). *Contextual Multimodal Approach for Recognizing the Concurrent Activities of Equipment Vehicles in Tunnel Construction Projects.* Automation in Construction.
+4. Lee, H., Lee, G., **Park, S.**, Lee, S., Jacobs, J. V., & Ahn, C. R. (2023). *Collective Sensing of Workers’ Loss of Body Balance for Slip, Trip, and Fall Hazard Identification: Field Validation Study.* Journal of Computing in Civil Engineering.
+5. Kim, J., Yoon, I., Jung, M., Joo, S., **Park, S.**, Hong, Y., Cho, J., & Park, M. (2022) Establishment of Measurement Standards for Productivity Assessment in Construction Project. Korean Journal of Construction Engineering and Management
 
 ### **🎤 Conference Papers**  
-- **Park, S.**, Lee, H., Ahn, C. R., & Park, M. (2023). *Human-independent activity recognition of construction worker.* European Conference on Computing in Construction. *(Invited to Automation in Construction)*  
-- Yeon, C., Park, M., Ahn, C. R., **Park, S.**, Jeong, W., & Yoon, I. (2022). *A System Dynamics Approach to Modeling Safety Management for Mega Construction Projects.* International System Dynamics Conference.  
-- **Park, S.**, An, M., Xu, H., Ahn, C. R., & Park, M. (2022). *Construction worker’s awkward posture recognition using wearable sensors.* International Symposium on Architectural Interchanges in Asia.  
+1. Jeon, K., **Park, S.**, Ison, L. E. Jr., & Tang, P. (2026). AI-driven Semantic Knowledge Graph Modeling for Cross-Jurisdiction Nuclear Regulatory Review. Construction Research Congress
+2. **Park, S.**, Lee, H., Ahn, C. R., & Park, M. (2023). *Human-independent activity recognition of construction worker.* European Conference on Computing in Construction. *(Invited to Automation in Construction)*  
+3. Yeon, C., Park, M., Ahn, C. R., **Park, S.**, Jeong, W., & Yoon, I. (2022). *A System Dynamics Approach to Modeling Safety Management for Mega Construction Projects.* International System Dynamics Conference.  
+4. **Park, S.**, An, M., Xu, H., Ahn, C. R., & Park, M. (2022). *Construction worker’s awkward posture recognition using wearable sensors.* International Symposium on Architectural Interchanges in Asia.
+5. **Park, S.**, Park, M., Jeong, M., & Kim, J. (2021) Derive Optimal Work Preparation Time Considering Construction Productivity-Considering the characteristics of the work section-. Journal of the Architectural Institute of Korea
 
 ---
 ## 🛠️ My Tech Playground
