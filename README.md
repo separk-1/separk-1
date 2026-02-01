@@ -38,7 +38,7 @@ My research explores how human-system interaction shapes decision-making and lev
 4. Lee, H., Lee, G., **Park, S.**, Lee, S., Jacobs, J. V., & Ahn, C. R. (2023). *Collective Sensing of Workers’ Loss of Body Balance for Slip, Trip, and Fall Hazard Identification: Field Validation Study.* Journal of Computing in Civil Engineering.
 5. Kim, J., Yoon, I., Jung, M., Joo, S., **Park, S.**, Hong, Y., Cho, J., & Park, M. (2022) Establishment of Measurement Standards for Productivity Assessment in Construction Project. Korean Journal of Construction Engineering and Management
 
-### **🎤 Conference Papers**  
+### **🎤 Peer-Reviewed Conference Papers**  
 1. Jeon, K., **Park, S.**, Ison, L. E. Jr., & Tang, P. (2026). AI-driven Semantic Knowledge Graph Modeling for Cross-Jurisdiction Nuclear Regulatory Review. Construction Research Congress
 2. **Park, S.**, Lee, H., Ahn, C. R., & Park, M. (2023). *Human-independent activity recognition of construction worker.* European Conference on Computing in Construction. *(Invited to Automation in Construction)*  
 3. Yeon, C., Park, M., Ahn, C. R., **Park, S.**, Jeong, W., & Yoon, I. (2022). *A System Dynamics Approach to Modeling Safety Management for Mega Construction Projects.* International System Dynamics Conference.  
