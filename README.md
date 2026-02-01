@@ -81,16 +81,6 @@ My research explores how human-system interaction shapes decision-making and lev
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=separk-1&theme=ayu-mirage"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=separk-1&layout=compact&theme=ayu-mirage"/>
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=separk-1&theme=tokyo-night" width="790"/> -->
-
-</div>
-
----
-
 ## 📫 Let's Connect! 
 Always excited to chat about AI, safety, or anything tech! Find me on:
 
