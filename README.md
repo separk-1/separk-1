@@ -1,4 +1,4 @@
-![Seongeun Park — Human-AI Decision Making for Engineering Systems](assets/header.svg)
+# Seongeun Park
 
 **Ph.D. Candidate · Civil and Environmental Engineering · Carnegie Mellon University**  
 Advised by Pingbo Tang.
