@@ -4,7 +4,7 @@
   <rect width="1200" height="280" fill="#f6f5f1"/>
   <rect x="40" y="38" width="24" height="24" fill="#d52b1e"/>
   <g fill="#181818" font-family="Helvetica, Arial, sans-serif">
-    <text x="80" y="56" font-size="16" letter-spacing="2">RESEARCH / ENGINEERING / HUMAN–AI</text>
+    <text x="80" y="56" font-size="16" letter-spacing="2">DESIGN FOR OPERABILITY</text>
     <text x="36" y="153" font-size="82" font-weight="700" letter-spacing="-4">Seongeun Park</text>
     <text x="40" y="198" font-size="24">Human-AI Decision Making for Engineering Systems</text>
     <path d="M40 225H1160" stroke="#181818" stroke-width="1"/>
